@@ -3,12 +3,14 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: lgarrosh <lgarrosh@student.42.fr>          +#+  +:+       +#+         #
+#    By: rzarquon <rzarquon@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2022/06/06 17:42:40 by preed             #+#    #+#              #
-#    Updated: 2022/08/13 16:41:24 by lgarrosh         ###   ########.fr        #
+#    Created: 2022/09/12 19:51:12 by rzarquon          #+#    #+#              #
+#    Updated: 2022/09/12 19:51:14 by rzarquon         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
+
 
 NAME		= minishell
 
